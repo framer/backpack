@@ -1,0 +1,23 @@
+{
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.8"
+  },
+  "peerDependencies": {
+    "framer": "^1.0",
+    "react": "^16.8"
+  },
+  "dependencies": {
+    "bpk-component-button": "latest",
+    "bpk-component-banner-alert": "latest",
+    "bpk-component-chip": "latest",
+    "bpk-component-icon": "latest",
+    "bpk-stylesheets": "^3.3.14",
+    "prop-types": "^15.7.2"
+  },
+  "framer": {
+    "id": "3aaead58-1b4b-41ca-81e2-cb800047038b"
+  },
+  "author": "Addison Schultz"
+}
